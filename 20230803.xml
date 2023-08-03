@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ExchangeRatesByDateResult xmlns="http://www.cba.am/" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <CurrentDate>2023-08-02T00:00:00</CurrentDate>
-  <NextAvailableDate>2023-08-03T00:00:00</NextAvailableDate>
-  <PreviousAvailableDate>2023-08-01T00:00:00</PreviousAvailableDate>
+  <CurrentDate>2023-08-03T00:00:00</CurrentDate>
+  <NextAvailableDate xsi:nil="true"/>
+  <PreviousAvailableDate>2023-08-02T00:00:00</PreviousAvailableDate>
   <Rates>
     <ExchangeRate>
       <ISO>USD</ISO>
       <Amount>1</Amount>
-      <Rate>386.8600</Rate>
-      <Difference>0.6800</Difference>
+      <Rate>386.1800</Rate>
+      <Difference>-0.6800</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>GBP</ISO>
       <Amount>1</Amount>
-      <Rate>494.3700</Rate>
-      <Difference>0.1800</Difference>
+      <Rate>488.3200</Rate>
+      <Difference>-6.0500</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>AUD</ISO>
       <Amount>1</Amount>
-      <Rate>254.7500</Rate>
-      <Difference>-1.4000</Difference>
+      <Rate>252.0600</Rate>
+      <Difference>-2.6900</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>EUR</ISO>
       <Amount>1</Amount>
-      <Rate>424.6200</Rate>
-      <Difference>0.5900</Difference>
+      <Rate>422.2500</Rate>
+      <Difference>-2.3700</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>XDR</ISO>
       <Amount>1</Amount>
-      <Rate>518.2800</Rate>
-      <Difference>-0.3400</Difference>
+      <Rate>517.1300</Rate>
+      <Difference>-1.1500</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>IRR</ISO>
@@ -43,98 +43,98 @@
     <ExchangeRate>
       <ISO>PLN</ISO>
       <Amount>1</Amount>
-      <Rate>95.7000</Rate>
-      <Difference>-0.2200</Difference>
+      <Rate>94.7600</Rate>
+      <Difference>-0.9400</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>CAD</ISO>
       <Amount>1</Amount>
-      <Rate>290.7400</Rate>
-      <Difference>-0.4500</Difference>
+      <Rate>288.8600</Rate>
+      <Difference>-1.8800</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>INR</ISO>
       <Amount>1</Amount>
-      <Rate>4.6900</Rate>
-      <Difference>0.0000</Difference>
+      <Rate>4.6700</Rate>
+      <Difference>-0.0200</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>NOK</ISO>
       <Amount>1</Amount>
-      <Rate>38.0600</Rate>
-      <Difference>0.2100</Difference>
+      <Rate>37.5200</Rate>
+      <Difference>-0.5400</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>JPY</ISO>
       <Amount>10</Amount>
-      <Rate>27.1000</Rate>
-      <Difference>0.0500</Difference>
+      <Rate>27.0300</Rate>
+      <Difference>-0.0700</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>SEK</ISO>
       <Amount>1</Amount>
-      <Rate>36.4000</Rate>
-      <Difference>-0.0900</Difference>
+      <Rate>35.9400</Rate>
+      <Difference>-0.4600</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>CHF</ISO>
       <Amount>1</Amount>
-      <Rate>440.7200</Rate>
-      <Difference>-0.4300</Difference>
+      <Rate>441.6000</Rate>
+      <Difference>0.8800</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>CZK</ISO>
       <Amount>1</Amount>
-      <Rate>17.7500</Rate>
-      <Difference>0.0500</Difference>
+      <Rate>17.6000</Rate>
+      <Difference>-0.1500</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>CNY</ISO>
       <Amount>1</Amount>
-      <Rate>54.2100</Rate>
-      <Difference>0.0300</Difference>
+      <Rate>54.0100</Rate>
+      <Difference>-0.2000</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>SGD</ISO>
       <Amount>1</Amount>
-      <Rate>289.2800</Rate>
-      <Difference>-0.3000</Difference>
+      <Rate>287.8300</Rate>
+      <Difference>-1.4500</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>BRL</ISO>
       <Amount>1</Amount>
-      <Rate>80.7400</Rate>
-      <Difference>-0.9800</Difference>
+      <Rate>80.2800</Rate>
+      <Difference>-0.4600</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>AED</ISO>
       <Amount>1</Amount>
-      <Rate>105.3300</Rate>
-      <Difference>0.1900</Difference>
+      <Rate>105.1500</Rate>
+      <Difference>-0.1800</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>KGS</ISO>
       <Amount>1</Amount>
-      <Rate>4.4100</Rate>
-      <Difference>0.0100</Difference>
+      <Rate>4.4000</Rate>
+      <Difference>-0.0100</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>KZT</ISO>
       <Amount>10</Amount>
-      <Rate>8.7100</Rate>
-      <Difference>0.0200</Difference>
+      <Rate>8.6800</Rate>
+      <Difference>-0.0300</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>RUB</ISO>
       <Amount>1</Amount>
-      <Rate>4.1500</Rate>
-      <Difference>-0.0600</Difference>
+      <Rate>4.1100</Rate>
+      <Difference>-0.0400</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>UAH</ISO>
       <Amount>1</Amount>
-      <Rate>10.4800</Rate>
-      <Difference>0.0200</Difference>
+      <Rate>10.4600</Rate>
+      <Difference>-0.0200</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>UZS</ISO>
@@ -145,44 +145,44 @@
     <ExchangeRate>
       <ISO>BYN</ISO>
       <Amount>1</Amount>
-      <Rate>127.3700</Rate>
-      <Difference>0.1000</Difference>
+      <Rate>126.3000</Rate>
+      <Difference>-1.0700</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>TJS</ISO>
       <Amount>1</Amount>
-      <Rate>35.4600</Rate>
-      <Difference>0.0600</Difference>
+      <Rate>35.4400</Rate>
+      <Difference>-0.0200</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>GEL</ISO>
       <Amount>1</Amount>
-      <Rate>147.9400</Rate>
-      <Difference>0.3000</Difference>
+      <Rate>148.1000</Rate>
+      <Difference>0.1600</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>HKD</ISO>
       <Amount>1</Amount>
-      <Rate>49.6000</Rate>
-      <Difference>0.0500</Difference>
+      <Rate>49.4800</Rate>
+      <Difference>-0.1200</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>XAU</ISO>
       <Amount>1</Amount>
-      <Rate>24218.9600</Rate>
-      <Difference>-248.5800</Difference>
+      <Rate>24139.1400</Rate>
+      <Difference>-79.8200</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>XAG</ISO>
       <Amount>1</Amount>
-      <Rate>304.9100</Rate>
-      <Difference>2.5200</Difference>
+      <Rate>303.0700</Rate>
+      <Difference>-1.8400</Difference>
     </ExchangeRate>
     <ExchangeRate>
       <ISO>NZD</ISO>
       <Amount>1</Amount>
-      <Rate>236.5600</Rate>
-      <Difference>-1.4800</Difference>
+      <Rate>234.5700</Rate>
+      <Difference>-1.9900</Difference>
     </ExchangeRate>
   </Rates>
 </ExchangeRatesByDateResult>
