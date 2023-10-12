@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ExchangeRatesByDateResult xmlns="http://www.cba.am/" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <CurrentDate>2023-10-11T00:00:00</CurrentDate>
-  <NextAvailableDate xsi:nil="true"/>
+  <NextAvailableDate>2023-10-12T00:00:00</NextAvailableDate>
   <PreviousAvailableDate>2023-10-10T00:00:00</PreviousAvailableDate>
   <Rates>
     <ExchangeRate>
